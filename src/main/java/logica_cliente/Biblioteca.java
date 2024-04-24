@@ -43,9 +43,9 @@ public class Biblioteca {
 
         Libro[] libros = {
             new Libro("Fausto", "Johann Wolfgang von Goethe"),
-            new Libro("Cien años de soledad", "Gabriel García Márquez"),
+            new Libro("Casa de muñecas", "Henrik Ibsen"),
             new Libro("Decamerón", "Giovanni Boccaccio"),
-            new Libro("Almas muertas", "Nikolai Gogol")
+            new Libro("Almas muertas", "Nikolai Gogol.")
         };
 
         ordenarLibros(libros);
