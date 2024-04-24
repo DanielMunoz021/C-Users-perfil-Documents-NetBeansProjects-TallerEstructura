@@ -48,11 +48,11 @@ public class OrdenarCartas {
    
 
         Carta[] mano = {
-            new Carta("Corazones", 10),
-            new Carta("Picas", 4),
-            new Carta("Diamantes", 7),
-            new Carta("Corazones", 2),
-            new Carta("Treboles", 5)
+            new Carta("Corazones", 7),
+            new Carta("Picas", 2),
+            new Carta("Diamantes", 8),
+            new Carta("Corazones", 3),
+            new Carta("Treboles", 1)
         };
 
         System.out.println("Mano de cartas desordenada:");

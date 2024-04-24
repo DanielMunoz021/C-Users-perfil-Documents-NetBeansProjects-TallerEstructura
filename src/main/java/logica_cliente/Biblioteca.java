@@ -42,10 +42,10 @@ public class Biblioteca {
     public static void main(String[] args) {
 
         Libro[] libros = {
-            new Libro("El Alquimista", "Paulo Coelho"),
+            new Libro("Fausto", "Johann Wolfgang von Goethe"),
             new Libro("Cien años de soledad", "Gabriel García Márquez"),
-            new Libro("Don Quijote de la Mancha", "Miguel de Cervantes"),
-            new Libro("Harry Potter y la piedra filosofal", "J.K. Rowling")
+            new Libro("Decamerón", "Giovanni Boccaccio"),
+            new Libro("Almas muertas", "Nikolai Gogol")
         };
 
         ordenarLibros(libros);
